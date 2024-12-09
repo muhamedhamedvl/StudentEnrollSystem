@@ -22,6 +22,5 @@ Technologies Used
 Programming Language: C#
 Framework: .NET Framework
 IDE: Visual Studio
-Database/Storage: (Mention any if applicable, e.g., SQL Server, JSON, XML, etc.)
-Screenshots
+
 
